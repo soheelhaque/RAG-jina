@@ -1,0 +1,31 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: Interest Rates, Inflation, and Equity Discount Rates
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Policy setting
+The Federal Reserve held its policy range at 4.25 to 4.50 percent at the June meeting. Officials
+described inflation progress as uneven: goods disinflation continued, while housing and selected
+services categories remained firm. The base case is two quarter-point reductions over the next twelve
+months, contingent on softer wage growth and inflation moving closer to the 2 percent target.
+
+The yield curve
+The two-year government bond yield ended June at 4.10 percent and the ten-year yield at 4.45 percent.
+The positive ten-year minus two-year spread reflected a term premium rather than an expectation of
+near-term policy tightening. Investors demanded compensation for fiscal borrowing, uncertain inflation
+outcomes, and the supply of longer-dated government bonds. A ten-year yield above 4.7 percent would
+raise the discount rate applied to long-duration cash flows even if the policy rate is unchanged.
+
+Growth-equity implications
+Technology and other growth sectors usually have longer-duration cash flows. Their price-to-earnings
+multiples are more sensitive to a rise in real yields than mature value sectors. A semiconductor
+company with accelerating earnings can outperform while yields rise, but the hurdle for positive
+earnings surprises becomes higher. A slower easing path can therefore create valuation compression
+without an immediate recession.
+
+Capital-expenditure interaction
+AI infrastructure spending makes the rate debate important for large cloud providers. These firms
+fund data centres, accelerators, networking, and power contracts before the full revenue stream
+arrives. When yields are high, investors scrutinise the payback period, depreciation expense, and
+free-cash-flow impact of capital expenditure. If monetisation is delayed, the same spending becomes a
+valuation and margin risk.

@@ -1,0 +1,33 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: AI Investment Cycle: Infrastructure, Monetisation, and Constraints
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Cycle overview
+Corporate investment in artificial intelligence remained concentrated in hyperscale cloud platforms,
+semiconductor supply chains, and enterprise-software experimentation. The investment question is
+shifting from the volume of capital expenditure to the quality of returns. Early demand for
+accelerators and networking equipment was visible in supplier order books. The next phase requires
+cloud providers to convert compute capacity into recurring revenue and enterprise customers to move
+from pilots to production deployments.
+
+Cloud monetisation
+Cloud platforms offer reserved AI capacity, consumption-based inference services, and developer tools.
+Revenue recognition differs across these products, so reported AI revenue may not match the current
+scale of capital expenditure. Useful measures are cloud-consumption growth, utilisation of deployed
+accelerators, contract duration, pricing per workload, and the percentage of enterprise pilots that
+become production workloads. Large customer pipelines are weaker evidence than delivered revenue and
+sustained usage.
+
+Power and physical capacity
+Data-centre power availability is a material bottleneck. In the fictional NorthGrid region, new
+high-density data-centre connections can require 24 to 36 months, longer than server delivery.
+Transmission upgrades, transformers, cooling systems, and long-term power purchase agreements are
+part of the AI supply chain. Capacity announcements without secured power should be assessed
+differently from projects supported by contracted electricity and construction permits.
+
+Financial trade-offs
+Accelerated capital expenditure can support future revenue but initially lowers free cash flow and
+raises depreciation. A healthy outcome combines rising utilisation, stable pricing, and increasing
+inference revenue. A weaker outcome combines idle capacity, price competition, and higher depreciation.
+High interest rates amplify the valuation impact of this distinction.

@@ -208,6 +208,9 @@ tempCodeRunnerFile.py
 # Ruff stuff:
 .ruff_cache/
 
+# Project specification
+docs/SPEC.md
+
 # PyPI configuration file
 .pypirc
 

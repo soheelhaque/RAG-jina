@@ -1,0 +1,22 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: Macroeconomic Conditions and Cross-Asset Risk Factors
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Growth backdrop
+The fictional US economy expanded at a 1.8 percent annualised rate in the first quarter of 2026.
+Consumer spending slowed from the prior year but remained positive, supported by real wage growth and
+low unemployment. Business investment was split: spending on AI data centres and automation remained
+strong, while office equipment and non-residential construction outside technology were subdued.
+
+Inflation and bonds
+Core services inflation remained near 3 percent, with shelter and insurance costs offsetting lower
+goods prices. A slower return to the 2 percent target could keep real yields and the term premium
+elevated. Government borrowing remained high, increasing supply of long-dated bonds. A higher term
+premium can increase the discount rate used by equity investors even without a central-bank rate hike.
+
+Downside scenario
+The downside scenario combines sticky inflation, a ten-year yield above 4.7 percent, and a softer
+consumer. Technology equities then face lower earnings confidence and valuation compression. AI
+infrastructure demand would be more resilient than discretionary software spending, but suppliers
+could be affected if cloud providers cut capital-expenditure plans.

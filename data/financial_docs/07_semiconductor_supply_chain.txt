@@ -1,0 +1,21 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: Semiconductor Supply Chain and Data-Centre Buildout
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Accelerator supply
+Lead times for high-end accelerators shortened in several categories as new packaging capacity came
+online. Shorter lead times do not automatically signal weak demand; they can reflect improved supply.
+They do, however, reduce scarcity premiums embedded in some infrastructure valuations. Suppliers with
+one or two hyperscale customers remain exposed to abrupt changes in cloud-provider procurement plans.
+
+Power equipment and grid access
+Transformers, switchgear, cooling systems, and construction labour are increasingly important
+constraints on data-centre completion. In NorthGrid, transmission upgrades are typically the critical
+path rather than server delivery. A provider that orders accelerators before securing power may hold
+underutilised equipment and incur depreciation before customer revenue begins.
+
+Monitoring indicators
+Track accelerator lead times, supplier backlog quality, contracted power, construction permits, and
+cloud-provider capex guidance. A simultaneous fall in reservations and capex guidance would be a more
+meaningful warning than any single supply-chain datapoint.

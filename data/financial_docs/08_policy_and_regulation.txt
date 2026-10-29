@@ -1,0 +1,23 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: Policy, Regulation, and AI Deployment Risks
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Export controls
+New restrictions on advanced semiconductor equipment created uncertainty for globally exposed
+technology companies. Semiconductor suppliers face concentrated customers, export-policy uncertainty,
+and the possibility that a change in hyperscale capital expenditure reaches order books with a delay.
+Firms with geographically diverse supply chains may be more resilient than suppliers dependent on one
+manufacturing jurisdiction.
+
+Enterprise deployment
+AI adoption can stall because of data quality, security review, model accuracy, integration cost, or
+uncertain ownership of business processes. Regulated industries often require audit trails, workload
+isolation, and contractual assurances before moving pilots to production. These requirements can delay
+the revenue ramp for managed inference platforms even when customer interest is high.
+
+Financial implications
+Regulatory delays matter most when infrastructure investment is already committed. If utilisation
+arrives later than planned, depreciation and power-contract costs can reduce margins before recurring
+AI revenue is recognised. Investors should separate infrastructure capacity announcements from
+evidence of permitted, contracted, and revenue-generating deployments.

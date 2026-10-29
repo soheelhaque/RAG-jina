@@ -1,0 +1,31 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: US Equity Market Regime and Technology Leadership
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Market backdrop
+US equities entered the second half of 2026 with returns led by a narrow group of large technology
+and communication-services companies. The broad market remained constructive, but dispersion between
+companies with visible artificial-intelligence revenue and firms exposed to cyclical demand was
+substantial. Investors rewarded earnings durability, pricing power, and credible free-cash-flow
+conversion rather than headline announcements about artificial intelligence.
+
+Concentration and valuation
+The Apex 500 Index rose 11 percent year to date, while its market-capitalisation-weighted technology
+sector rose 18 percent. The ten largest companies represented 35 percent of index value. Technology
+Leaders Basket traded at 29 times next-twelve-month earnings, compared with a ten-year median of 22
+times. That premium is easier to defend when revenue growth comes with operating leverage and harder
+to defend when it depends on an investment cycle that may normalise.
+
+Interest-rate sensitivity
+Long-duration equities are sensitive to the real discount rate because more estimated cash flow lies
+in future years. A rise in the ten-year government bond yield from 4.2 to 4.8 percent would pressure
+valuation multiples, especially for unprofitable software firms. Profitable mega-cap technology
+companies are less fragile because they generate cash today, but their valuation premium would still
+be tested.
+
+Monitoring list
+Track ten-year yields, credit spreads, equal-weighted versus cap-weighted performance, cloud
+consumption growth, semiconductor lead times, data-centre power constraints, and revisions to 2027
+earnings estimates. These indicators connect macro conditions, capital spending, and equity
+leadership.

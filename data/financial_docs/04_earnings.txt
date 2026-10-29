@@ -1,0 +1,23 @@
+SYNTHETIC FINANCIAL RESEARCH NOTE
+Title: Earnings Revisions and Technology Guidance
+Date: 2026-06-30
+Source: Northstar Research, fictional training corpus
+
+Earnings backdrop
+Consensus expects Technology Leaders Basket earnings to grow 19 percent in 2027. That estimate
+depends on continued demand for AI compute and an orderly enterprise-spending environment. A company
+can report strong current-quarter revenue and still sell off if management signals slower cloud
+consumption, guides gross margins lower because of accelerator depreciation, or cuts planned capital
+expenditure.
+
+Revision risk
+The highest-risk companies have elevated multiples, weak cash conversion, and revenue concentrated in
+one or two hyperscale customers. Estimate risk rises when cloud contracts contain flexible usage
+commitments or when infrastructure suppliers have limited visibility beyond the next two quarters.
+Investors should distinguish orders, shipments, installed capacity, and recognised recurring revenue.
+
+Scenario indicators
+Positive evidence includes rising utilisation, durable pricing, and enterprise deployments moving from
+pilots into production. Negative evidence includes falling reservation rates, extended customer trials,
+data-centre construction delays, or a growing gap between capital expenditure and inference revenue.
+These indicators can precede consensus earnings revisions.
